@@ -1,7 +1,7 @@
 # Number-Guesser-Game-with-JavaScript
 
 <h3>Function & Description:</h3>
-This is a game about guessing. It's written in JavaScript and has been incorporated with some HTML/CSS to give a more visual appeal. When you tap the "Make a Guess Button", it:
+This is a game about guessing. It's written in JavaScript and it:
 
 
 - generates a secret number between 0 and 9
